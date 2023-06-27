@@ -1,10 +1,10 @@
 # Strong Password Generator (Made for Mac)
  Makes an easy way to generate strong passwords. Note: this could work on Linux or Windows systems, but it is not tested yet on those platforms.
 
-**YOU NEED THE PYPERCLIP MODULE INSTALLED TO RUN THIS SCRIPT**
-You can do this by running *pip3 install pyperclip* in terminal.
+**YOU NEED THE PYPERCLIP MODULE INSTALLED TO RUN THIS SCRIPT**\
+*You can do this by running *pip3 install pyperclip* in terminal.*
 
- You can use this script with the shortcuts app on Mac, just by making a shortcut that runs a shell script that in turn runs the python script. You can then set up a keybind that runs the shortcut, which in my case is cmd+option+p. The link for the shortcut is below or just take a look at the screenshot of the Shortcut.
+ You can use this script with the shortcuts app on Mac, just by making a shortcut that runs a shell script that in turn runs the python script. It is also possible to set up a keybind that runs the shortcut, which in my case I set it to cmd+option+p. The link for the shortcut is below or just take a look at the screenshot of the Shortcut.
 
  Either if you use the link or look at the screenshot, **BE SURE TO CHANGE THE DIRECTORY FROM THE DEFAULT TO WHERE THE PASSWORD GENRATOR SCRIPT IS.**
 
